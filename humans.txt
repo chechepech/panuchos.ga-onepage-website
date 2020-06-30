@@ -1,0 +1,20 @@
+/* TEAM */
+Web Developer & Designer: Cheche Pech
+Website: https://chechepech.gq
+Contact: bboy_rys[at]yahoo.com.mx
+facebook: chechepech
+linkedin: chechepech
+github: chechepech
+youtube: chechepech
+twitter: @chechepech
+instagram: cheche_pech
+Location: Yucatan, Mexico
+
+/* THANKS */
+Name: https://panuchos.ga
+
+/* SITE */
+Last update: 2020/06/30
+Standards: HTML5, CSS3, JavaScript
+Components: ResetCSS, Modular Scalable
+Software: Sublime Text 3
